@@ -7,3 +7,4 @@ Portfolioni sisältää kirjallisia ja kvantitatiivisia analyyseja Suomen taloud
 👉 [Pääset lukemaan portfolioni PDF-version tästä](./Portfolio_Leena.pdf)
 
 Terveisin Leena, VTM
+📫leena.leino@live.com

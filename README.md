@@ -1,6 +1,6 @@
 # Hei!
 
-Tervetuloa portfolioni sivulle! 😇
+Tervetuloa portfolioni sivulle! 
 
 Portfolioni sisältää kirjallisia ja kvantitatiivisia analyyseja Suomen taloudesta. 📊
 

@@ -6,7 +6,8 @@ Portfolioni sisältää kirjallisia ja kvantitatiivisia analyyseja Suomen taloud
 
 👉 [Pääset lukemaan portfolioni PDF-version tästä](./Portfolio_Leena.pdf)
 
-👉[Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024](https://github.com/leenaleino/portfolio/blob/main/Dashboard%203.png?raw=true)
+👉[Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024](https://raw.githubusercontent.com/leenaleino/portfolio/main/Dashboard%203.png)
+
 
 Terveisin Leena, VTM
 

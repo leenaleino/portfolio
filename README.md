@@ -1,6 +1,6 @@
 # Portfolio — Taloustieteilijän data-analyysit 📈
 
-Hei!👋 Olen keväällä valmistunut taloustieteilijä, joka uskoo vahvasti datan ja kvantitatiivisten menetelmien voimaan päätöksenteon tukena. Tämä portfolio on koottu osoitukseksi kiinnostuksestani analysoida taloudellisia ilmiöitä tilastollisin menetelmin ja datavetoisesti.
+Hei!👋 Olen keväällä valmistunut taloustieteilijä, joka uskoo vahvasti datan ja kvantitatiivisten menetelmien voimaan päätöksenteon tukena. Tämä portfolio on koottu osoitukseksi kiinnostuksestani ja osaamisestani analysoida taloudellisia ilmiöitä tilastollisin menetelmin ja datavetoisesti.
 
 Portfoliossa esittelen konkreettisia analyysiprojekteja ja visualisointeja. Aiheet vaihtelevat makrotaloudesta rahoitusaiheisiin. Analyysit on tehty pääosin RStudio-ohjelmalla, ja visualisointiin on käytetty Power BI:tä, R:ää ja Exceliä.
 

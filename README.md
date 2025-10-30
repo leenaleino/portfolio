@@ -1,8 +1,10 @@
-# Hei!
+# Portfolio — Taloustieteilijän data-analyysit 📈
 
-Tervetuloa portfolioni sivulle! 
+Hei! Olen keväällä valmistunut taloustieteilijä, joka uskoo vahvasti datan ja kvantitatiivisten menetelmien voimaan päätöksenteon tukena. Tämä portfolio on koottu osoitukseksi kiinnostuksestani analysoida taloudellisia ilmiöitä tilastollisin menetelmin ja datavetoisesti.
 
-Täältä löydät erilaisia talousaiheisia analyyseja. Alla oleva pdf sisältää sekä kirjallisia että kvantitatiivisia osioita niin makrotaloudesta kuin rahoitusaiheista 📊
+Portfoliossa esittelen konkreettisia analyysiprojekteja ja visualisointeja. Aiheet vaihtelevat makrotaloudesta rahoitusaiheisiin. Analyysit on tehty pääosin RStudio-ohjelmalla, ja visualisointiin on käytetty Power BI:tä, R:ää ja Exceliä.
+
+Tavoitteenani on tuoda esiin osaamistani datan käsittelyssä, analysoinnissa sekä tulosten selkeässä esittämisessä — näitä taitoja haluan käyttää tulevassa työssäni.
 
 👉 [Pääset lukemaan portfolioni PDF-version tästä](./Portfolio_Leena.pdf)
 

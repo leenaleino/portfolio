@@ -8,7 +8,8 @@ Täältä löydät erilaisia talousaiheisia analyyseja. Alla oleva pdf sisältä
 
 Alla oleva dashboard on tiivis ja tarjoaa nopean vilkaisun Suomen julkisen talouden tilaan vuosilta 2000–2024. Siitä näet keskeiset talouden indikaattorit yhdellä silmäyksellä. Tämä dashboard on toteutettu Tableau Publicilla
 
-👉 [Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024](https://raw.githubusercontent.com/leenaleino/portfolio/main/Dashboard%203.png)
+👉 [Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024](https://raw.githubusercontent.com/kayttajanimi/repo/main/images/kuva.png)
+
 
 
 Terveisin Leena, VTM

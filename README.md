@@ -9,6 +9,7 @@ Portfoliossa esittelen konkreettisia analyysiprojekteja ja visualisointeja. Aihe
     vaikutus EDP-velkaan
   - Korkotason, asuntojen hintojen sekä työttömyysasteen vaikutus uusien lainojen
     määrään
+    
 **Rahoitukseen liittyvät aiheet**
   - Kiinteistörahastojen riskien tarkastelu R:llä
   - ESG-riskienhallinta sijoituspäätöksissä

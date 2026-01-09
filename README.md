@@ -23,8 +23,7 @@ Portfoliossa esittelen konkreettisia analyysiprojekteja ja visualisointeja. Aihe
 
 Tavoitteenani on tuoda esiin osaamistani datan käsittelyssä, analysoinnissa sekä tulosten selkeässä esittämisessä — näitä taitoja haluan käyttää tulevassa työssäni. 
 
-
-Jos PDF-versiot ovat liian pitkä ja kahvitaukosi liian lyhyt, voit halutessasi silmäillä alla olevan tiiviin dashboardin, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla
+Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla
 
 👇 ![Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024](https://raw.githubusercontent.com/leenaleino/portfolio/main/Dashboard%203.png)
 

@@ -9,17 +9,22 @@ Portfoliossa esittelen konkreettisia analyysiprojekteja ja visualisointeja. Aihe
     vaikutus EDP-velkaan
   - Korkotason, asuntojen hintojen sekä työttömyysasteen vaikutus uusien lainojen
     määrään
+  - Finanssipolitiikan liikkumavara ja suhdanneherkkyys (tekeillä)
+    
+👉 [Tässä PDF-versio yllä olevista aiheista](./makro_portfolio.pdf)
+
     
 **Rahoitukseen liittyvät aiheet**
   - Kiinteistörahastojen riskien tarkastelu R:llä
   - ESG-riskienhallinta sijoituspäätöksissä
   - Ennakko-listautumisvaiheen fundamenttianalyysi Posti Group Oyj:stä
 
+👉 [Tässä PDF-versio rahoitukseen liittyvistä aiheista](./rahoitus_portfolio.pdf)
+
 Tavoitteenani on tuoda esiin osaamistani datan käsittelyssä, analysoinnissa sekä tulosten selkeässä esittämisessä — näitä taitoja haluan käyttää tulevassa työssäni. 
 
-👉 [Pääset lukemaan portfolioni PDF-version tästä](./Portfolio_Leena.pdf)
 
-Jos PDF on liian pitkä ja kahvitaukosi liian lyhyt, voit halutessasi silmäillä alla olevan tiiviin dashboardin, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla
+Jos PDF-versiot ovat liian pitkä ja kahvitaukosi liian lyhyt, voit halutessasi silmäillä alla olevan tiiviin dashboardin, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla
 
 👇 ![Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024](https://raw.githubusercontent.com/leenaleino/portfolio/main/Dashboard%203.png)
 

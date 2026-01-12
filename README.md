@@ -1,9 +1,11 @@
-# Portfolio — Taloustieteilijän data-analyysit 📈
+# Taloustieteilijän portfolio 📈
+## Teoreettinen ja empiirinen näkökulma makrotalouteen sekä rahoitusmarkkinoihin
 
-Hei!👋 Olen Leena ja olen vuonna 2025 valmistunut taloustieteilijä, joka uskoo vahvasti datan ja kvantitatiivisten menetelmien voimaan päätöksenteon tukena. Tämä portfolio on koottu osoitukseksi kiinnostuksestani ja osaamisestani analysoida taloudellisia ilmiöitä tilastollisin menetelmin ja datavetoisesti. Olen kiinnostunut laajasti niin makrotaloudesta kuin myös rahoituksesta. Tämän lisäksi olen innokas shakin pelaaja.
+Hei! Olen Leena, vuonna 2025 valmistunut taloustieteilijä. Lähestyn taloudellisia ilmiöitä dataan ja kvantitatiivisiin menetelmiin nojautuen, tavoitteena tukea päätöksentekoa systemaattisen analyysin avulla.
 
-Portfoliossa esittelen konkreettisia analyysiprojekteja ja visualisointeja. Aiheet vaihtelevat makrotaloudesta rahoitusaiheisiin. Analyysit on tehty pääosin RStudio-ohjelmalla, ja visualisointiin on käytetty Power BI:tä, R:ää ja Exceliä.
-Tavoitteenani on tuoda esiin osaamistani datan käsittelyssä, analysoinnissa sekä tulosten selkeässä esittämisessä — näitä taitoja haluan käyttää tulevassa työssäni. 
+Tämä portfolio kokoaa yhteen analyysejä, joissa tarkastelen makrotalouden ja rahoituksen ilmiöitä tilastollisin ja datavetoisin menetelmin. Projektit sisältävät aikasarja- ja regressioanalyysejä sekä taloudellisten ilmiöiden mallintamista ja tulkintaa.
+
+Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristössä, ja visualisoinneissa on hyödynnetty R:ää, Power BI:tä ja Exceliä. Tavoitteena on tuoda esiin osaamistani datan käsittelyssä, analyysissä ja tulosten selkeässä esittämisessä sekä niiden soveltamisessa taloudellisten ilmiöiden tarkasteluun. 
 
 **Makrotalouden aiheet**
   - Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen

@@ -27,6 +27,15 @@ Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen j
 
 👇 ![Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024](https://raw.githubusercontent.com/leenaleino/portfolio/main/Dashboard%203.png)
 
+<section id="dashboard">
+  <h2>Dashboard Suomen julkisesta taloudesta</h2>
+  <img 
+      src="https://raw.githubusercontent.com/leenaleino/portfolio/main/Dashboard%203.png" 
+      alt="Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024"
+      class="dashboard-img">
+  <p>Lyhyt kuvaus: Tässä dashboardissa näkyy Suomen julkisen talouden kehitys vuosilta 2000–2024.</p>
+</section>
+
 
 
 Terveisin Leena, VTM

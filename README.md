@@ -17,6 +17,7 @@ Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristö
     
 
 **Rahoitukseen liittyvät aiheet** 👇
+
 [Kiinteistörahastojen riskien tarkastelu R:llä](./asuntorahasto_portfolio.pdf)
  
 

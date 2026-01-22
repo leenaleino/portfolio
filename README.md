@@ -16,14 +16,10 @@ Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristö
     määrään](./asuntola_portfolio.pdf).
     
 
+**Rahoitukseen liittyvät aiheet** 👇
+[Kiinteistörahastojen riskien tarkastelu R:llä](./asuntorahasto_portfolio.pdf)
+ 
 
-    
-**Rahoitukseen liittyvät aiheet**
-  - Kiinteistörahastojen riskien tarkastelu R:llä
-  - ESG-riskienhallinta sijoituspäätöksissä
-  - Ennakko-listautumisvaiheen fundamenttianalyysi Posti Group Oyj:stä
-
-👉 [Tässä PDF-versio rahoitukseen liittyvistä aiheista](./rahoitus_portfolio.pdf)
 
 
 Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla

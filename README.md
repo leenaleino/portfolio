@@ -7,14 +7,14 @@ Tämä portfolio kokoaa yhteen analyysejä, joissa tarkastelen makrotalouden ja 
 
 Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristössä, ja visualisoinneissa on hyödynnetty R:ää, Power BI:tä ja Exceliä. Tavoitteena on tuoda esiin osaamistani datan käsittelyssä, analyysissä ja tulosten selkeässä esittämisessä sekä niiden soveltamisessa taloudellisten ilmiöiden tarkasteluun. 
 
-**Makrotalouden aiheet**
-  - Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen
-    vaikutus EDP-velkaan
-  - Korkotason, asuntojen hintojen sekä työttömyysasteen vaikutus uusien lainojen
-    määrään
-  - Finanssipolitiikan liikkumavara ja suhdanneherkkyys (tekeillä)
+**Makrotalouden aiheet** 👇
+
+.[Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen
+    vaikutus EDP-velkaan](./EDP_portfolio.pdf)
+.[Korkotason, asuntojen hintojen sekä työttömyysasteen vaikutus uusien lainojen
+    määrään](./asuntola_portfolio.pdf).
     
-👉 [Tässä PDF-versio yllä olevista aiheista](./makro_portfolio.pdf)
+
 
     
 **Rahoitukseen liittyvät aiheet**

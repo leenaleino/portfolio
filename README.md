@@ -23,9 +23,8 @@ Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristö
 
 
 
-Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla
+Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla 👇
 
-👇 ![Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024](https://raw.githubusercontent.com/leenaleino/portfolio/main/Dashboard%203.png)
 
 <img 
     src="https://raw.githubusercontent.com/leenaleino/portfolio/main/Dashboard%203.png" 

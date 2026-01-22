@@ -9,9 +9,10 @@ Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristö
 
 **Makrotalouden aiheet** 👇
 
-.[Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen
+[Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen
     vaikutus EDP-velkaan](./EDP_portfolio.pdf)
-.[Korkotason, asuntojen hintojen sekä työttömyysasteen vaikutus uusien lainojen
+    
+[Korkotason, asuntojen hintojen sekä työttömyysasteen vaikutus uusien lainojen
     määrään](./asuntola_portfolio.pdf).
     
 

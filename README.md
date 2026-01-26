@@ -9,6 +9,8 @@ Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristö
 
 **Makrotalouden aiheet** 👇
 
+[Korkotason rooli Suomen kestävyysvajeessa: kustannus, tulonlähde vai molemmat?](./kestävyysvaje_portfolio.pdf)
+
 [Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen
     vaikutus EDP-velkaan](./EDP_portfolio.pdf)
     

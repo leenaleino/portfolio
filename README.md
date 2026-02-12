@@ -40,6 +40,7 @@ Olen kiinnostunut kehittämään osaamistani ja portfoliotani edelleen. Jos sinu
 
 
 
+
 Terveisin Leena, VTM
 
 📧leena.leino@live.com

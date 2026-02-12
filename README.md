@@ -7,7 +7,7 @@ Tämä portfolio kokoaa yhteen analyysejä, joissa tarkastelen makrotalouden ja 
 
 Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristössä, ja visualisoinneissa on hyödynnetty R:ää, Power BI:tä ja Exceliä. Tavoitteena on tuoda esiin osaamistani datan käsittelyssä, analyysissä ja tulosten selkeässä esittämisessä sekä niiden soveltamisessa taloudellisten ilmiöiden tarkasteluun. 
 
-**Makrotalouden aiheet** 👇
+**Makrotalouden aiheet** 
 
 [Korkotason rooli Suomen kestävyysvajeessa: kustannus, tulonlähde vai molemmat?](./kestävyysvaje_portfolio.pdf)
 
@@ -18,14 +18,14 @@ Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristö
     määrään](./asuntola_portfolio.pdf).
     
 
-**Rahoitukseen liittyvät aiheet** 👇
+**Rahoitukseen liittyvät aiheet** 
 
 [Kiinteistörahastojen riskien tarkastelu R:llä](./asuntorahasto_portfolio.pdf)
  
 
 
 
-Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla 👇
+Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla 
 
 
 <img 

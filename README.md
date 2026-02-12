@@ -34,9 +34,7 @@ Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen j
     style="width:60%; max-width:600px; display:block; margin:0 auto;">
 
 ### Näkemystä projekteistani
-Olen kiinnostunut kehittämään osaamistani ja portfoliotani edelleen. Jos sinulla on ajatuksia, palautetta tai vinkkejä projekteistani, otan ne mielelläni vastaan.
-
-<iframe src="https://formspree.io/f/YOUR_FORM_ID" width="100%" height="500" frameborder="0">Ladataan…</iframe>
+Olen kiinnostunut kehittämään osaamistani ja portfoliotani edelleen. Jos sinulla on ajatuksia, palautetta tai mahdollisesti jopa työmahdollisuus, kuuntelen mielelläni.
 
 
 

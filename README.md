@@ -34,7 +34,7 @@ Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen j
     style="width:60%; max-width:600px; display:block; margin:0 auto;">
 
 
-<h2>Anna palautetta halutessasi 🙂</h2>
+<h2>Anna palautetta halutessasi </h2>
 <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
   <label for="name">Nimi:</label><br>
   <input type="text" id="name" name="name" required><br>
@@ -47,6 +47,7 @@ Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen j
   
   <button type="submit">Lähetä</button>
 </form>
+
 
 
 Terveisin Leena, VTM

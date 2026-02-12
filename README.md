@@ -34,24 +34,10 @@ Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen j
     style="width:60%; max-width:600px; display:block; margin:0 auto;">
 
 
-<section id="feedback" style="padding: 2rem 0; max-width: 600px; margin: auto;">
-  <h2 style="font-size: 1.8rem; margin-bottom: 1rem;">Näkemystä projekteistani</h2>
-  <p style="margin-bottom: 1.5rem;">
-    Olen kiinnostunut kehittämään osaamistani ja portfoliotani edelleen. Jos sinulla on ajatuksia, palautetta tai vinkkejä projekteistani, otan ne mielelläni vastaan.
-  </p>
+### Näkemystä projekteistani
+Olen kiinnostunut kehittämään osaamistani ja portfoliotani edelleen. Jos sinulla on ajatuksia, palautetta tai vinkkejä projekteistani, otan ne mielelläni vastaan.
 
-  <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" style="display: flex; flex-direction: column; gap: 0.8rem;">
-    <label for="name">Nimi (valinnainen):</label>
-    <input type="text" id="name" name="name" style="padding: 0.5rem; font-size: 1rem;">
-
-    <label for="message">Viesti:</label>
-    <textarea id="message" name="message" rows="5" required style="padding: 0.5rem; font-size: 1rem;"></textarea>
-
-    <button type="submit" style="padding: 0.7rem; font-size: 1rem; background-color: #007ACC; color: white; border: none; cursor: pointer;">
-      Lähetä
-    </button>
-  </form>
-</section>
+<iframe src="https://formspree.io/f/YOUR_FORM_ID" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Ladataan…</iframe>
 
 
 

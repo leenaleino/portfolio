@@ -1,7 +1,7 @@
 # Taloustieteilijän portfolio 📈
 ## Teoreettinen ja empiirinen näkökulma makrotalouteen sekä rahoitusmarkkinoihin
 
-Hei! Olen Leena, vuonna 2025 valmistunut taloustieteilijä. Lähestyn taloudellisia ilmiöitä dataan ja kvantitatiivisiin menetelmiin nojautuen, tavoitteena tukea päätöksentekoa systemaattisen analyysin avulla.
+Hei! Olen Leena, ekonomisti. Lähestyn taloudellisia ilmiöitä dataan ja kvantitatiivisiin menetelmiin nojautuen, tavoitteena tukea päätöksentekoa systemaattisen analyysin avulla.
 
 Tämä portfolio kokoaa yhteen analyysejä, joissa tarkastelen makrotalouden ja rahoituksen ilmiöitä tilastollisin ja datavetoisin menetelmin. Projektit sisältävät aikasarja- ja regressioanalyysejä sekä taloudellisten ilmiöiden mallintamista ja tulkintaa.
 

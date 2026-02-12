@@ -34,17 +34,6 @@ Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen j
     style="width:60%; max-width:600px; display:block; margin:0 auto;">
 
 
-### Näkemystä projekteistani
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-  <label for="name">Nimi (valinnainen):</label><br>
-  <input type="text" id="name" name="name"><br>
-
-  <label for="message">Viesti:</label><br>
-  <textarea id="message" name="message" rows="5" required></textarea><br>
-
-  <button type="submit">Lähetä</button>
-</form>
-
 
 
 Terveisin Leena, VTM

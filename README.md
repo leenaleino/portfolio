@@ -35,10 +35,15 @@ Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen j
 
 
 ### Näkemystä projekteistani
-Olen kiinnostunut kehittämään osaamistani ja portfoliotani edelleen. Jos sinulla on ajatuksia, palautetta tai vinkkejä projekteistani, otan ne mielelläni vastaan.
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <label for="name">Nimi (valinnainen):</label><br>
+  <input type="text" id="name" name="name"><br>
 
-<iframe src="https://formspree.io/f/YOUR_FORM_ID" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Ladataan…</iframe>
+  <label for="message">Viesti:</label><br>
+  <textarea id="message" name="message" rows="5" required></textarea><br>
 
+  <button type="submit">Lähetä</button>
+</form>
 
 
 

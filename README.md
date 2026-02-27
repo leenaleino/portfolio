@@ -1,4 +1,4 @@
-# Taloustieteilijän portfolio 📈
+# Taloustieteilijän portfolio 📈                            
 ## Teoreettinen ja empiirinen näkökulma makrotalouteen sekä rahoitusmarkkinoihin
 
 Hei! Olen Leena, ekonomisti. Lähestyn taloutta datan kautta: minua kiinnostaa, mitä luvut näyttävät ja miten niistä saa koottua selkeän kokonaisuuden. Teen analyysejä, koska haluan ymmärtää asioita paremmin.
@@ -36,12 +36,11 @@ Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen j
     alt="Dashboard Suomen julkisesta taloudesta vuosilta 2000-2024"
     style="width:60%; max-width:600px; display:block; margin:0 auto;">
 
-### Näkemystä projekteistani
-Olen kiinnostunut kehittämään osaamistani ja portfoliotani edelleen. Jos sinulla on ajatuksia, palautetta tai mahdollisesti jopa työmahdollisuus, kuuntelen mielelläni.
-
-
+### Työmahdollisuus?
+Olen kiinnostunut kehittämään ja hyödyntämään osaamistani analyyttisissa tehtävissä.
+Yhteyden minuun saa 📧leena.leino@live.com
 
 
 Terveisin Leena, VTM
 
-📧leena.leino@live.com
+

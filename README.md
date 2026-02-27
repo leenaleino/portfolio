@@ -38,7 +38,8 @@ Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen j
 
 ### Työmahdollisuus?
 Olen kiinnostunut kehittämään ja hyödyntämään osaamistani analyyttisissa tehtävissä.
-Yhteyden minuun saa 📧[leena.leino@live.com](mailto:leena.leino@live.com)
+Yhteyden minuun saa 📧 <a href="mailto:etunimi.sukunimi@live.com">etunimi.sukunimi@live.com</a>
+
 
 
 

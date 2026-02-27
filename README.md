@@ -1,9 +1,3 @@
-<style>
-body {
-  background: linear-gradient(to bottom, #fff0f6, #ffe6f2);
-}
-</style>
-
 
 # Taloustieteilijän portfolio 📈                            
 ## Teoreettinen ja empiirinen näkökulma makrotalouteen sekä rahoitusmarkkinoihin

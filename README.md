@@ -1,11 +1,12 @@
 # Taloustieteilijän portfolio 📈
 ## Teoreettinen ja empiirinen näkökulma makrotalouteen sekä rahoitusmarkkinoihin
 
-Hei! Olen Leena, ekonomisti. Lähestyn taloudellisia ilmiöitä dataan ja kvantitatiivisiin menetelmiin nojautuen, tavoitteena tukea päätöksentekoa systemaattisen analyysin avulla.
+Hei! Olen Leena, ekonomisti. Lähestyn taloutta datan kautta: minua kiinnostaa, mitä luvut näyttävät ja miten niistä saa koottua selkeän kokonaisuuden. Teen analyysejä, koska haluan ymmärtää asioita paremmin.
 
-Tämä portfolio kokoaa yhteen analyysejä, joissa tarkastelen makrotalouden ja rahoituksen ilmiöitä tilastollisin ja datavetoisin menetelmin. Projektit sisältävät aikasarja- ja regressioanalyysejä sekä taloudellisten ilmiöiden mallintamista ja tulkintaa.
+Tämä portfolio kokoaa projekteja, joissa olen tarkastellut talouden ja rahoituksen kehitystä kvantitatiivisin menetelmin. Mukana on esimerkiksi ** aikasarja‑ ja regressiomalleja ** sekä talouden rakenteiden ja muutosten tarkastelua datan avulla. Tavoitteena on päästä kiinni siihen, mikä on olennaista ja miten sen voi perustella.
 
-Portfoliossa esiteltävät analyysit on toteutettu pääosin RStudio-ympäristössä, ja visualisoinneissa on hyödynnetty R:ää, Power BI:tä ja Exceliä. Tavoitteena on tuoda esiin osaamistani datan käsittelyssä, analyysissä ja tulosten selkeässä esittämisessä sekä niiden soveltamisessa taloudellisten ilmiöiden tarkasteluun. 
+Analyysit on pääosin toteutettu R:llä. Visualisointiin olen hyödyntänyt Power BI:tä, R:ää sekä Exceliä. Osaamiseni kattaa myös monen muun tilasto-ohjelman käytön, muun muasssa SAS, Eviews, Stata. 
+
 
 **Makrotalouden aiheet** 
 

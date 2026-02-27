@@ -3,7 +3,7 @@
 
 Hei! Olen Leena, ekonomisti. Lähestyn taloutta datan kautta: minua kiinnostaa, mitä luvut näyttävät ja miten niistä saa koottua selkeän kokonaisuuden. Teen analyysejä, koska haluan ymmärtää asioita paremmin.
 
-Tämä portfolio kokoaa projekteja, joissa olen tarkastellut talouden ja rahoituksen kehitystä kvantitatiivisin menetelmin. Mukana on esimerkiksi **aikasarja‑ ja regressiomalleja** sekä talouden rakenteiden ja muutosten tarkastelua datan avulla. Tavoitteena on päästä kiinni siihen, mikä on olennaista ja miten sen voi perustella.
+Tämä portfolio kokoaa projekteja, joissa olen tarkastellut talouden ja rahoituksen kehitystä kvantitatiivisin menetelmin. Mukana on esimerkiksi aikasarja‑ ja regressiomalleja sekä talouden rakenteiden ja muutosten tarkastelua datan avulla. **Tavoitteena on päästä kiinni siihen, mikä on olennaista ja miten sen voi perustella.**
 Olen valinnut portfoliooni aiheita, jotka kuvaavat minulle keskeisiä talouden ilmiöitä: julkisen talouden kestävyyttä, suhdanteiden vaikutusta velkaantumiseen, luottomarkkinoiden dynamiikkaa sekä rahoitusmarkkinoiden riskejä. Nämä teemat täydentävät toisiaan ja heijastavat kiinnostustani siihen, miten talouden rakenteet, markkinat ja makromuuttujat kytkeytyvät toisiinsa.
 
 Analyysit on pääosin toteutettu R:llä. Visualisointiin olen hyödyntänyt Power BI:tä, R:ää sekä Exceliä. Osaamiseni kattaa myös monen muun tilasto-ohjelman käytön, mutta viihdyn eniten R:n parissa ja myös siksi, että se on kotikoneelle mahdollista saada.
@@ -28,7 +28,7 @@ Analyysit on pääosin toteutettu R:llä. Visualisointiin olen hyödyntänyt Pow
 
 
 
-Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla 
+Tai kurkkaa alla oleva tiivis dashboard, joka tarjoaa nopean katsauksen Suomen julkisen talouden tilaan ja kehitykseen vuosilta 2000–2024. Tämä dashboard on toteutettu Tableau Publicilla. 
 
 
 <img 

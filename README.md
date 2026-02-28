@@ -13,7 +13,12 @@ Analyysit on pääosin toteutettu R:llä. Visualisointiin olen hyödyntänyt Pow
 
 **Makrotalouden aiheet** 
 
-[Korkotason rooli Suomen kestävyysvajeessa: kustannus, tulonlähde vai molemmat?](./kestävyysvaje_portfolio.pdf)
+[Korkotason rooli Suomen kestävyysvajeessa: kustannus, tulonlähde vai molemmat?](./kestävyysvaje_portfolio.pdf) <div style="border:1px solid #ddd; padding:15px; width:300px;">
+  <img src="kuva.png" width="100%">
+  <h3>Projektin nimi</h3>
+  <p>Lyhyt kuvaus projektista.</p>
+</div>
+
 
 [Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen
     vaikutus EDP-velkaan](./EDP_portfolio.pdf)

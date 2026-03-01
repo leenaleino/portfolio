@@ -1,6 +1,6 @@
 
 # Taloustieteilijän portfolio 📈                            
-## Teoreettinen ja empiirinen näkökulma makrotalouteen sekä rahoitusmarkkinoihin
+## Analyyttinen ote talouteen, markkinoihin ja rakenteisiin
 
 Hei! Olen Leena, ekonomisti. Lähestyn taloutta datan kautta: minua kiinnostaa, mitä luvut näyttävät ja miten niistä saa koottua selkeän kokonaisuuden. Teen analyysejä, koska haluan ymmärtää asioita paremmin.
 
